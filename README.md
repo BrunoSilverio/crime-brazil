@@ -67,5 +67,13 @@ fazendo com que não tenha uma concentração de somente um tipo de crime,
 resultando em um gráfico com bastante diversidade conforme mostrado nas figuras
 acima.
 
+![alt text](https://github.com/BrunoSilverio/crime-brazil/blob/master/plotBase.PNG?raw=true)
+
+![alt text](https://github.com/BrunoSilverio/crime-brazil/blob/master/plotCluster.PNG?raw=true)
+
+![alt text](https://github.com/BrunoSilverio/crime-brazil/blob/master/plotCluster2.PNG?raw=true)
+
+![alt text](https://github.com/BrunoSilverio/crime-brazil/blob/master/plotCluster3.PNG?raw=true)
+
 #### :construction: Referência
 - (https://www.kaggle.com/inquisitivecrow/crime-data-in-brazil): Dataset : Crime Data in Brazil
